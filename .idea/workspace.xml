@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="862d1c83-0712-4803-afc9-024c22cfd445" name="Default Changelist" comment="feat: start cv">
-      <change afterPath="$PROJECT_DIR$/img/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/photo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    <list default="true" id="862d1c83-0712-4803-afc9-024c22cfd445" name="Default Changelist" comment="feat: update cv">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.sass" beforeDir="false" afterPath="$PROJECT_DIR$/style.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.sass" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="Sass File" />
       </list>
     </option>
   </component>
@@ -40,7 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../travel" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="list.type.of.created.stylesheet" value="Sass" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\user\WebstormProjects\rsschool-cv\node_modules\prettier" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
@@ -62,7 +60,8 @@
       <workItem from="1632160639090" duration="46000" />
       <workItem from="1632160986067" duration="4574000" />
       <workItem from="1632165589911" duration="1277000" />
-      <workItem from="1632166975343" duration="792000" />
+      <workItem from="1632166975343" duration="1079000" />
+      <workItem from="1632168137149" duration="7878000" />
     </task>
     <task id="LOCAL-00001" summary="git commit -m change link">
       <created>1631708067426</created>
@@ -148,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632146233719</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="feat: update cv">
+      <created>1632167830543</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1632167830543</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,7 +183,8 @@
     <MESSAGE value="feat: need 1 more commit" />
     <MESSAGE value="feat: new files from cv" />
     <MESSAGE value="feat: start cv" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: start cv" />
+    <MESSAGE value="feat: update cv" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: update cv" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
