@@ -1,4 +1,4 @@
-1. My fullname is Anastasia 
+1. My full name is Anastasia 
 **2. Contacts**
 __*Address:__ Moscow
 __*Phone/telegram:__ +79610958590
@@ -7,12 +7,12 @@ __*Phone/telegram:__ +79610958590
 **3. About Me**Л
 I want to change my specialty.
 **4. Skills:**
-JS basic
-HTML&CSS
-Git
-Photoshop
+*JS basic
+*HTML&CSS
+*Git
+*Photoshop
 **5. Code example**
-function stringify(list) {
+*function stringify(list) {
 let data = [];
 while (list !== null) {
 data.push(list.data);
