@@ -1,4 +1,4 @@
-1. My fullname is Anastasia Meshachak
+1. My fullname is Anastasia 
 **2. Contacts**
 __*Address:__ Moscow
 __*Phone/telegram:__ +79610958590
