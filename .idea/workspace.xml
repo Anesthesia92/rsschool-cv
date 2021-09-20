@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="862d1c83-0712-4803-afc9-024c22cfd445" name="Default Changelist" comment="feat: new files from cv">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="0cc83ac9-0796-47dd-9c5c-8c8df427fd3b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632144204368</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="refactor: update photos">
+      <created>1632176649709</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1632176649709</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +154,7 @@
     <MESSAGE value="feat: change text" />
     <MESSAGE value="feat: need 1 more commit" />
     <MESSAGE value="feat: new files from cv" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: new files from cv" />
+    <MESSAGE value="refactor: update photos" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: update photos" />
   </component>
 </project>
