@@ -1,4 +1,4 @@
-1. My fullname is Anastasia 
+1. My full name is Anastasia 
 **2. Contacts**
 __*Address:__ Moscow
 __*Phone/telegram:__ +79610958590
