@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="862d1c83-0712-4803-afc9-024c22cfd445" name="Default Changelist" comment="init: start" />
+    <list default="true" id="862d1c83-0712-4803-afc9-024c22cfd445" name="Default Changelist" comment="feat: need 1 more commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/cv.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,8 +23,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -36,6 +41,7 @@
       <updated>1631707887746</updated>
       <workItem from="1631707891691" duration="5417000" />
       <workItem from="1632136327033" duration="6125000" />
+      <workItem from="1632143499673" duration="658000" />
     </task>
     <task id="LOCAL-00001" summary="git commit -m change link">
       <created>1631708067426</created>
@@ -86,7 +92,28 @@
       <option name="project" value="LOCAL" />
       <updated>1632141413649</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="init: start">
+      <created>1632143619692</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1632143619693</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat: change text">
+      <created>1632143761035</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1632143761035</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feat: need 1 more commit">
+      <created>1632143846856</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1632143846856</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +138,8 @@
     <MESSAGE value="change link" />
     <MESSAGE value="gg" />
     <MESSAGE value="init: start" />
-    <option name="LAST_COMMIT_MESSAGE" value="init: start" />
+    <MESSAGE value="feat: change text" />
+    <MESSAGE value="feat: need 1 more commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: need 1 more commit" />
   </component>
 </project>
