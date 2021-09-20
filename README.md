@@ -1,1 +1,1 @@
-https://Anesthesia92.github.io/rsschool-cv/cv/index.html
+https://Anesthesia92.github.io/rsschool-cv/cv
