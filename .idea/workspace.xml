@@ -1,31 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="862d1c83-0712-4803-afc9-024c22cfd445" name="Default Changelist" comment="feat: start cv">
-      <change afterPath="$PROJECT_DIR$/img/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/photo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    <list default="true" id="98175669-f955-423c-b9ba-7a8120fec95a" name="Default Changelist" comment="refactor: change structure of the project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.sass" beforeDir="false" afterPath="$PROJECT_DIR$/style.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/cv.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="CSS File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1yAwph1iXpmXOcMHuZepnIoQgW8" />
+  <component name="ProjectId" id="1yRLDik7lUbidXcdq3OCcN58bDS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -34,121 +22,31 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../travel" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\user\WebstormProjects\rsschool-cv\node_modules\prettier" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="862d1c83-0712-4803-afc9-024c22cfd445" name="Default Changelist" comment="" />
-      <created>1631707887746</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1631707887746</updated>
-      <workItem from="1631707891691" duration="5417000" />
-      <workItem from="1632136327033" duration="6125000" />
-      <workItem from="1632143499673" duration="1452000" />
-      <workItem from="1632150244468" duration="600000" />
-      <workItem from="1632154137500" duration="2391000" />
-      <workItem from="1632160639090" duration="46000" />
-      <workItem from="1632160986067" duration="4574000" />
-      <workItem from="1632165589911" duration="1277000" />
-      <workItem from="1632166975343" duration="792000" />
-    </task>
-    <task id="LOCAL-00001" summary="git commit -m change link">
-      <created>1631708067426</created>
+    <task id="LOCAL-00001" summary="feat: try to change">
+      <created>1632180585977</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1631708067426</updated>
+      <updated>1632180585977</updated>
     </task>
-    <task id="LOCAL-00002" summary="init: start">
-      <created>1631708854097</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1631708854097</updated>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98175669-f955-423c-b9ba-7a8120fec95a" name="Default Changelist" comment="feat: try to change" />
+      <created>1632209358714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632209358714</updated>
+      <workItem from="1632209371510" duration="309000" />
+      <workItem from="1632256293147" duration="146000" />
     </task>
-    <task id="LOCAL-00003" summary="feat: add text">
-      <created>1631715857877</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1631715857877</updated>
-    </task>
-    <task id="LOCAL-00004" summary="change link">
-      <created>1632140226553</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1632140226553</updated>
-    </task>
-    <task id="LOCAL-00005" summary="gg">
-      <created>1632140362263</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1632140362263</updated>
-    </task>
-    <task id="LOCAL-00006" summary="gg">
-      <created>1632141260891</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1632141260891</updated>
-    </task>
-    <task id="LOCAL-00007" summary="init: start">
-      <created>1632141413649</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1632141413649</updated>
-    </task>
-    <task id="LOCAL-00008" summary="init: start">
-      <created>1632143619692</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1632143619693</updated>
-    </task>
-    <task id="LOCAL-00009" summary="feat: change text">
-      <created>1632143761035</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1632143761035</updated>
-    </task>
-    <task id="LOCAL-00010" summary="feat: need 1 more commit">
-      <created>1632143846856</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1632143846856</updated>
-    </task>
-    <task id="LOCAL-00011" summary="feat: new files from cv">
-      <created>1632144204368</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1632144204368</updated>
-    </task>
-    <task id="LOCAL-00012" summary="feat: start cv">
-      <created>1632146233719</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1632146233719</updated>
-    </task>
-    <option name="localTasksCounter" value="13" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,20 +65,8 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="git commit -m change link" />
-    <MESSAGE value="feat: add text" />
-    <MESSAGE value="change link" />
-    <MESSAGE value="gg" />
-    <MESSAGE value="init: start" />
-    <MESSAGE value="feat: change text" />
-    <MESSAGE value="feat: need 1 more commit" />
-    <MESSAGE value="feat: new files from cv" />
-    <MESSAGE value="feat: start cv" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: start cv" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
+    <MESSAGE value="feat: try to change" />
+    <MESSAGE value="refactor: change structure of the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: change structure of the project" />
   </component>
 </project>
